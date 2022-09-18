@@ -1,4 +1,4 @@
-### [Blog](https://zshchun.github.io)
+# [Blog](https://zshchun.github.io)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zshchun)](https://git.io/streak-stats)
 
 <!--
