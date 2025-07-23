@@ -1,4 +1,7 @@
 [BLOG](https://zshchun.github.io)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hang)](https://solved.ac/hang/)
 <!--
 **zshchun/zshchun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zshchun)](https://git.io/streak-stats)
